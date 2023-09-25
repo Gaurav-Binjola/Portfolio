@@ -30,7 +30,7 @@ const Work = () => {
                                         </button>
                                         
                                     </a>
-                                    <a href="">
+                                    <a href={item.codeUrl}>
                                         <button className="text-center rounded-lg px-12 py-6 m-2 bg-violet-300 text-gray-700 text-lg">
                                             CODE
                                         </button>

@@ -26,9 +26,9 @@ export const skills =[
 ]
 
 export const project = [
-        { label: "NIKE_CLONE", imgUrl: nike, demoUrl: "https://sensational-rabanadas-bd6ac0.netlify.app/", codeUrl: ""},
-    { label: "YOUTUBE_CLONE ", imgUrl: youtube, demoUrl: "https://storied-platypus-616375.netlify.app/" , codeUrl: ""},
-    { label: "DISNEY_CLONE", imgUrl: disney, demoUrl: "https://dancing-hummingbird-b05975.netlify.app/", codeUrl: ""},
+        { label: "NIKE_CLONE", imgUrl: nike, demoUrl: "https://sensational-rabanadas-bd6ac0.netlify.app/", codeUrl: "https://github.com/Gaurav-Binjola/Nike-clone"},
+    { label: "YOUTUBE_CLONE ", imgUrl: youtube, demoUrl: "https://storied-platypus-616375.netlify.app/" , codeUrl: "https://github.com/Gaurav-Binjola/youtube-clone"},
+    { label: "DISNEY_CLONE", imgUrl: disney, demoUrl: "https://dancing-hummingbird-b05975.netlify.app/", codeUrl: "https://github.com/Gaurav-Binjola/disney-clone"},
     
     
 ]
